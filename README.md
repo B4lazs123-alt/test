@@ -10,7 +10,9 @@
 
 ### Munkabeosztás
 
-Boti csinálta a fő gyökereit a projektnek, a HTML alapjait.  
-Bence főként a designon dolgozott.  
-Balázs a külső anyagok beeágyazásán.  
-Az ötletelésben mind a hárman részt vettünk.
+Munkanapló:  
+HTML írása: Veres Botond  
+HTML ötletelés: Veres Botond, Bilibok Bence, Bernátzki Balázs  
+Design: Veres Botond, Bilibok Bence  
+Cikk, videó beágyazása: Bernátzki Balázs  
+Szöveg: Bilibok Bence  
