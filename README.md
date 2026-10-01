@@ -2,7 +2,7 @@
 
 ## Kollaborátorok
 
-*[Balázs](https://github.com/B4lazs123-alt)*  
+*[Bernáczky](https://github.com/B4lazs123-alt)*  
 *[Bence](https://github.com/25cbil)*  
 *[Boti](https://github.com/25cveres)*
 
