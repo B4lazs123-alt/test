@@ -23,5 +23,7 @@ Deployment hosztolás: Veres Botond, Bernátzki Balázs
 
 ## Képek
 
-<img src="./ai.png" alt="Szentgál FC promóciós kép" width="300">
-<img src="./meccsnap.png" alt="Meccsnap hirdeté" width="300">
+<div>
+    <img src="./ai.png" alt="Szentgál FC promóciós kép" width="300">
+    <img src="./meccsnap.png" alt="Meccsnap hirdeté" width="300">
+</div>
