@@ -8,6 +8,10 @@
 
 ## Munka
 
+### Website
+
+[Szentgál FC](https://b4lazs123-alt.github.io/test/)
+
 ### Munkanapló
 
 HTML írása: Veres Botond  
