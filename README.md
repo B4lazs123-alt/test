@@ -2,15 +2,19 @@
 
 ## Kollaborátorok
 
-*[Balázs](https://github.com/B4lazs123-alt)*  
-*[Bence](https://github.com/25cbil)*  
-*[Boti](https://github.com/25cveres)*
+- *[Balázs](https://github.com/B4lazs123-alt)*  
+- *[Bence](https://github.com/25cbil)*  
+- *[Boti](https://github.com/25cveres)*
 
 ## Munka
 
 ### Website
 
 [Szentgál FC](https://b4lazs123-alt.github.io/test/)
+
+### Programozási nyelvek
+
+`HTML` `CSS` `JavaScript` `Bootstrap` `Markdown`
 
 ### Munkanapló
 
@@ -29,3 +33,12 @@ Deployment hosztolás: Veres Botond, Bernátzki Balázs
         <img src="./meccsnap.png" alt="Meccsnap hirdeté" width="300">
     </div>
 </center>
+
+## Elérhetőségek
+
+
+- **Balázs:** [Linktree](linktr.ee/b4lazs123) • [Instagram](https://www.instagram.com/b_bal_azs11/)
+- **Boti:** [Instagram](https://www.instagram.com/botond.wav/)
+- **Bence:** [Instagram](https://www.instagram.com/blbkbence/)
+
+---
