@@ -12,9 +12,10 @@
 
 ### 🌐 Website
 
-[Szentgál FC](https://b4lazs123-alt.github.io/test/)
+> **A Szentgál FC interaktív weboldala itt található**  
+> **↓**
 
-<iframe src="https://b4lazs123-alt.github.io/test/index.html/" width="100%" height="600" style="border: 1px solid #ddd; border-radius: 12px">
+[`Szentgál FC`](https://b4lazs123-alt.github.io/test/)
 
 ### 🖥️ Programozási nyelvek
 
