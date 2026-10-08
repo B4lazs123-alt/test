@@ -19,7 +19,9 @@ HTML ötletelés: Veres Botond, Bilibok Bence, Bernátzki Balázs
 Design: Veres Botond, Bilibok Bence, Bernátzki Balázs  
 Cikk, videó beágyazása: Bernátzki Balázs  
 Szöveg: Bilibok Bence  
+Deployment hosztolás: Veres Botond, Bernátzki Balázs  
 
-### Tartalom
+## Képek
 
-[![A 72 ÉVES CSODAKAPUS - TrollFoci Szentgál](https://img.youtube.com/vi/Ozttnolg-SU/0.jpg)](https://www.youtube.com/watch?v=Ozttnolg-SU)
+[Szentgál FC promóciós kép](./ai.png)
+[Meccsnap hirdetés](./meccsnap.png)
