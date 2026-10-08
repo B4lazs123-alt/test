@@ -40,8 +40,6 @@ Deployment hosztolás: Veres Botond, Bernátzki Balázs
 - **Boti:** [Instagram](https://www.instagram.com/botond.wav/)
 - **Bence:** [Instagram](https://www.instagram.com/blbkbence/) • [Fortnite Tracker](https://fortnitetracker.com/fortnite/profile/epic/bencehh%c7%83/matchmaking/overview)
 
-<br>
-
 ---
 
 # ⚽ **Hajrá Szentgál!**
