@@ -33,9 +33,8 @@ Deployment hosztolás: Veres Botond, Bernátzki Balázs
 
 ## 📸 Elérhetőségek
 
-
-- **Balázs:** [Linktree](https://linktr.ee/b4lazs123) • [Instagram](https://www.instagram.com/b_bal_azs11/)
+- **Balázs:** [Instagram](https://www.instagram.com/b_bal_azs11/) • [Linktree](https://linktr.ee/b4lazs123) • [Letterboxd](https://letterboxd.com/B4lazs123/)
 - **Boti:** [Instagram](https://www.instagram.com/botond.wav/)
-- **Bence:** [Instagram](https://www.instagram.com/blbkbence/)
+- **Bence:** [Instagram](https://www.instagram.com/blbkbence/) • [Fortnite Tracker](https://fortnitetracker.com/fortnite/profile/epic/bencehh%c7%83/matchmaking/overview)
 
 ---
