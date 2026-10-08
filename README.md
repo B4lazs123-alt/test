@@ -37,7 +37,7 @@ Deployment hosztolás: Veres Botond, Bernátzki Balázs
 ## Elérhetőségek
 
 
-- **Balázs:** [Linktree](linktr.ee/b4lazs123) • [Instagram](https://www.instagram.com/b_bal_azs11/)
+- **Balázs:** [Linktree](https://linktr.ee/b4lazs123) • [Instagram](https://www.instagram.com/b_bal_azs11/)
 - **Boti:** [Instagram](https://www.instagram.com/botond.wav/)
 - **Bence:** [Instagram](https://www.instagram.com/blbkbence/)
 
