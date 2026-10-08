@@ -1,5 +1,7 @@
 # 📄 README
 
+> **A Szentgál FC weboldalának hivatalos repoja**
+
 ## 👥 Kollaborátorok
 
 - *[Balázs](https://github.com/B4lazs123-alt)*  
